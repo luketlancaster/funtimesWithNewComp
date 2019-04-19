@@ -9,3 +9,5 @@ this was added on a second commit on the base1-off-master brach!
 base 3, normal flow
 
 base 4 off base 3
+
+base 5, for rebase committing!

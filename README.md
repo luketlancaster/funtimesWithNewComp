@@ -11,3 +11,5 @@ base 3, normal flow
 base 4 off base 3
 
 base 5, for rebase committing!
+
+base 6, off base 5 let's goooooo!

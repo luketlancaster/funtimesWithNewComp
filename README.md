@@ -1,9 +1,13 @@
 # Funtimes with Git!
 
 Just tryin' a test some things! Will it work?!?! Who knows!!??
+Just tryin' a test some things! Will it work?!?! Who knows!!??
+Just tryin' a test some things! Will it work?!?! Who knows!!??
+Just tryin' a test some things! Will it work?!?! Who knows!!??
 
 This was added on the base1-off-master (or whatever) branch! First commit!
 
+this was added on a second commit on the base1-off-master brach!
 this was added on a second commit on the base1-off-master brach!
 
 This was a test, to see if I got commit signing to work...
